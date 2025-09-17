@@ -1,0 +1,9 @@
+torch>=1.7
+torchvision
+ultralytics>=8.0.0
+pillow
+opencv-python
+matplotlib
+pandas
+tqdm
+pyyaml
