@@ -17,7 +17,7 @@ visualization
 ## Quick start (run locally or on Colab)
 1. **Clone the repo**
 ```bash
-git clone https://github.com/leocalypse7192/PCB_Anomaly_Detection_AI
+git clone https://github.com/FarhanMS7192/PCB_Anomaly_Detection_AI
 cd pcb-anomaly-detection
 ```
 2. **Install dependencies (recommended: create a virtual environment)**
