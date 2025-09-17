@@ -1,0 +1,12 @@
+Python
+pycache/ .pyc .pyo *.pyd venv/ .env
+Jupyter
+.ipynb_checkpoints
+Data / outputs
+data/processed/ data/split/ outputs/ runs/ .pt .pth
+OS
+.DS_Store
+•
+4
+Archives
+*.zip
